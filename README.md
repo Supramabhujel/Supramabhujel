@@ -11,4 +11,4 @@
 
 ### My Toolbox:
 - **Languages:** SQL, R
-- **Tools:** Excel, Tableau, Power BI
+- **Tools:** Excel, Tableau, SPSS 
