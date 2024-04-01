@@ -10,5 +10,5 @@
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suprama-bhujel/)
 
 ### My Toolbox:
-- **Languages:** SQL, R
+- **Languages:** SQL, R , Python
 - **Tools:** Excel, Tableau, SPSS 
